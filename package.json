@@ -26,7 +26,8 @@
     "@nestjs/platform-socket.io": "^10.3.0",
     "@nestjs/websockets": "^10.3.0",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",
